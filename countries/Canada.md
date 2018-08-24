@@ -1,14 +1,10 @@
 ##Canada
-## population
 
+##Population
+35,623,60
 
-## capital
+## Capital
+Ottawa
 
- 
-## official language
-
-
-## interesting trivia
-
-
-
+## Independence
+July 1, 1867
