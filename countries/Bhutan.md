@@ -1,6 +1,6 @@
 ##Bhutan
 ## population
-
+Information
 
 ## capital
 
